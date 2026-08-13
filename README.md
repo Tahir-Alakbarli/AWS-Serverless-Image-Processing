@@ -1,4 +1,4 @@
-# AWS Serverless Image Uploade
+# AWS Serverless Image Uploader
 
 This project is an updated version of my previous AWS S3 static website project. You can find it in the repositories.
 
