@@ -7,7 +7,7 @@ import uuid
 import boto3
 
 
-s3 = boto3.client("s3"
+s3 = boto3.client("s3")
 UPLOAD_BUCKET = os.environ["UPLOAD_BUCKET"]
 MAX_FILE_SIZE = 5 * 1024 * 1024
 
